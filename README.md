@@ -60,8 +60,8 @@ pip install -r requirements.txt
 
 ---
 
-## step 1: Create a placeholder one-pager and SQL file
-**Plain English:** These files remind us to ship a recruiter-friendly summary and show off SQL skills.
+## Changelog
+- Step 1 (Project setup): Created folder structure; set up virtual environment; added requirements.txt; created placeholders (extract/transform/utils/notebook); added README with KPIs/SitingScore and running instructions; created docs/one-pager and sql/kpis.sql.
 
 **Do this:**
 ```bash
