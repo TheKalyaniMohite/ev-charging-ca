@@ -1,0 +1,124 @@
+region,level2_ports,dcfc_ports,ports_total,dcfc_share
+Los Angeles,61875,1485,63360,0.0234
+Van Nuys,9405,198,9603,0.0206
+Sun Valley,7326,198,7524,0.0263
+Pasadena,3168,0,3168,0.0
+Fremont,1980,297,2277,0.1304
+Santa Monica,1980,198,2178,0.0909
+Long Beach,2079,99,2178,0.0455
+Playa Del Rey,2079,0,2079,0.0
+Vacaville,1980,0,1980,0.0
+Wilmington,1980,0,1980,0.0
+Davis,1782,99,1881,0.0526
+Santa Clara,1485,198,1683,0.1176
+Sacramento,1386,99,1485,0.0667
+San Jose,1287,198,1485,0.1333
+San Luis Obispo,1287,99,1386,0.0714
+San Francisco,1287,0,1287,0.0
+Northridge,1287,0,1287,0.0
+Riverside,1089,99,1188,0.0833
+Fairfield,990,99,1089,0.0909
+Downey,792,198,990,0.2
+Universal City,990,0,990,0.0
+Santa Ana,792,0,792,0.0
+Elk Grove,495,198,693,0.2857
+Dublin,594,99,693,0.1429
+Ventura,594,0,594,0.0
+Petaluma,396,99,495,0.2
+Camarillo,495,0,495,0.0
+Oceanside,198,297,495,0.6
+Placerville,495,0,495,0.0
+Santa Rosa,396,99,495,0.2
+Goleta,297,99,396,0.25
+Chico,297,99,396,0.25
+Folsom,297,99,396,0.25
+Oakland,396,0,396,0.0
+Palmdale,198,198,396,0.5
+Sherman Oaks,297,99,396,0.25
+San Pedro,396,0,396,0.0
+Westlake Village,396,0,396,0.0
+Citrus Heights,396,0,396,0.0
+San Diego,297,99,396,0.25
+Redlands,297,99,396,0.25
+Bakersfield,297,99,396,0.25
+Brea,396,0,396,0.0
+Buena Park,297,99,396,0.25
+Fontana,198,99,297,0.3333
+El Monte,198,99,297,0.3333
+Salinas,198,99,297,0.3333
+Escondido,297,0,297,0.0
+Costa Mesa,198,99,297,0.3333
+Huntington Beach,198,99,297,0.3333
+Hayward,198,99,297,0.3333
+Garden Grove,198,99,297,0.3333
+Corona,198,99,297,0.3333
+City Of Industry,198,99,297,0.3333
+Carson,198,99,297,0.3333
+Irvine,198,99,297,0.3333
+La Quinta,198,99,297,0.3333
+Arcadia,297,0,297,0.0
+Baldwin Park,297,0,297,0.0
+Seaside,198,99,297,0.3333
+Stockton,198,99,297,0.3333
+Temecula,198,99,297,0.3333
+San Juan Capistrano,198,99,297,0.3333
+San Leandro,198,99,297,0.3333
+Ontario,198,99,297,0.3333
+Orange,198,99,297,0.3333
+Oxnard,198,99,297,0.3333
+Richmond,99,99,198,0.5
+Montclair,99,99,198,0.5
+Newbury Park,198,0,198,0.0
+Palm Springs,198,0,198,0.0
+Roseville,99,99,198,0.5
+Visalia,99,99,198,0.5
+West Covina,99,99,198,0.5
+Simi Valley,99,99,198,0.5
+Tustin,99,99,198,0.5
+Glendale,99,99,198,0.5
+El Dorado Hills,198,0,198,0.0
+Fair Oaks,198,0,198,0.0
+Antioch,99,99,198,0.5
+Culver City,198,0,198,0.0
+Cathedral City,99,99,198,0.5
+Burlingame,198,0,198,0.0
+Cerritos,99,99,198,0.5
+Lakewood,198,0,198,0.0
+Malibu,198,0,198,0.0
+Larkspur,198,0,198,0.0
+Indian Wells,198,0,198,0.0
+Poway,99,99,198,0.5
+San Dimas,198,0,198,0.0
+San Bernardino,99,99,198,0.5
+Sepulveda,198,0,198,0.0
+Sylmar,198,0,198,0.0
+Carmichael,99,0,99,0.0
+Merced,99,0,99,0.0
+Granite Bay,99,0,99,0.0
+Fresno,99,0,99,0.0
+Gardena,99,0,99,0.0
+La Jolla,99,0,99,0.0
+Eureka,99,0,99,0.0
+El Cajon,99,0,99,0.0
+Antelope,99,0,99,0.0
+Campbell,99,0,99,0.0
+Concord,99,0,99,0.0
+Clovis,99,0,99,0.0
+Duarte,99,0,99,0.0
+Gilroy,99,0,99,0.0
+Redding,99,0,99,0.0
+Mission Hills,99,0,99,0.0
+Hemet,99,0,99,0.0
+Rio Vista,99,0,99,0.0
+Oak View,99,0,99,0.0
+Modesto,99,0,99,0.0
+Napa,99,0,99,0.0
+National City,99,0,99,0.0
+Victorville,99,0,99,0.0
+South Gate,99,0,99,0.0
+Ukiah,99,0,99,0.0
+Sutter Creek,99,0,99,0.0
+Vallejo,99,0,99,0.0
+Tracy,99,0,99,0.0
+Dixon,0,0,0,0.0
+South Pasadena,0,0,0,0.0

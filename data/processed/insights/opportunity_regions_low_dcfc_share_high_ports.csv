@@ -1,0 +1,18 @@
+region,level2_ports,dcfc_ports,ports_total,dcfc_share
+Van Nuys,9405,198,9603,0.0206
+Los Angeles,61875,1485,63360,0.0234
+Sun Valley,7326,198,7524,0.0263
+Long Beach,2079,99,2178,0.0455
+Davis,1782,99,1881,0.0526
+Sacramento,1386,99,1485,0.0667
+San Luis Obispo,1287,99,1386,0.0714
+Riverside,1089,99,1188,0.0833
+Santa Monica,1980,198,2178,0.0909
+Fairfield,990,99,1089,0.0909
+Santa Clara,1485,198,1683,0.1176
+Fremont,1980,297,2277,0.1304
+San Jose,1287,198,1485,0.1333
+Dublin,594,99,693,0.1429
+Downey,792,198,990,0.2
+Petaluma,396,99,495,0.2
+Santa Rosa,396,99,495,0.2
